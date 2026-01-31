@@ -3,4 +3,4 @@
 if [ "$BASH" ]; then
   if [ -f ~/.bashrc ]; then
     . ~/.
-jggijkbdunnliic
+jggijkbdunnliic ijhkluk
